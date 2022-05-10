@@ -1,0 +1,26 @@
+{
+  "name": "one",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "毛国涛 <1142656486@qq.com>",
+  "homepage": "https://github.com/scorpionMGT/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorpionMGT/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/scorpionMGT/lerna-repo/issues"
+  }
+}
