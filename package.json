@@ -1,8 +1,12 @@
 {
   "name": "root",
   "private": false,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-customizable": "^6.3.0",
     "lerna": "^4.0.0"
   },
   "dependencies": {
